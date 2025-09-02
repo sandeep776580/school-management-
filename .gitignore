@@ -1,0 +1,8 @@
+
+node_modules
+.next
+.env*
+.DS_Store
+*.log
+public/schoolImages/*
+!public/schoolImages/.gitkeep
